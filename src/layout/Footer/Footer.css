@@ -1,0 +1,29 @@
+.footer_content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  padding: 55px 0 142px 0;
+}
+.footer_content_left{
+  display: flex;
+  column-gap: 75px;
+  margin-right: 148px;
+  margin-left: 152px;
+}
+.footer_content_right{
+  display: flex;
+  column-gap: 75px;
+}
+.footer_content ul li{
+  margin-bottom: 16px;
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+}
+.footer_content_right_span{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+}

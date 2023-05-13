@@ -1,0 +1,71 @@
+.sec2_content{
+  text-align: center;
+  margin-bottom: 238px;
+}
+.sec2_content h1{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+}
+.sec2_content input{
+  width: 415px;
+  height: 40px;
+  background: #FFFFFF;
+  border: 3px solid #000000;
+  margin: 24px 0;
+}
+.sec2_content button{
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  width: 252px;
+  height: 45px;
+  background: #000000;
+  border: 3px solid #000000;
+}
+.sec2_cards_h1{
+  text-align: center;
+  margin-bottom: 54px;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 120%;
+}
+.sec2_cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 90px;
+}
+.sec2_card{
+  background: #F2F2F2;
+  width: 338px;
+  height: 558px;
+  text-align: center;
+}
+.sec2_card h3{
+  margin: 35px 0 29px 0;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 31px;
+}
+.sec2_card p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  margin-bottom: 31px;
+}
+.sec2_card button{
+  width: 338px;
+  height: 53px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  background: white;
+  border: 3px solid #000000;
+  color: black;
+}
+.sec2_card button:hover{
+  background: black;
+  color:white;
+}

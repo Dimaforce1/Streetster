@@ -1,0 +1,31 @@
+.sec1{
+  background: url("../../img/header/bg_header.png")center/cover no-repeat;
+  height: 100vh;
+}
+.sec1_h5{
+  color: white;
+  padding-top:500px ;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+}
+.sec1_h1{
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 120%;
+  color: white;
+  margin-bottom: 32px;
+  margin-top: 16px;
+}
+.sec1_button{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 8px 19px;
+  background: none;
+  width: 206px;
+  height: 41px;
+  margin-bottom: 168px;
+  color: white;
+  border: 3px solid #FFFFFF;
+}

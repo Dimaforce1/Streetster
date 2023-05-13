@@ -1,0 +1,25 @@
+.category_sec1{
+  background: url("../../img_category/sec1_img_category/category_bg_sec1.png")center/cover no-repeat;
+  height: 100vh;
+}
+.category_sec1_content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 220px;
+}
+.category_sec1_content_left{
+  margin-top: 203px;
+}
+.category_sec1_content_right h1{
+  margin-top: 203px;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+.category_sec1_content_right p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+}

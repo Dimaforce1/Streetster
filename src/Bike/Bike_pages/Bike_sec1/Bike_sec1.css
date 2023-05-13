@@ -1,0 +1,188 @@
+.bike_sec1_content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 66px;
+}
+.bike_sec1_content_right{
+  width: 444px;
+  margin-left: 71px;
+}
+.bike_sec1_content_right h1{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 7px;
+}
+.bike_sec1_content_right h2{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  margin-bottom: 38px;
+}
+.bike_sec1_content_right h3{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  margin-bottom: 15px;
+}
+.bike_choice_color_bike{
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  margin-bottom: 45px;
+}
+.bike_choice_color_bike_black{
+  width: 16px;
+  height: 16px;
+  background: #000000;
+}
+.bike_choice_color_bike_blue{
+  width: 16px;
+  height: 16px;
+  background: #5A88FF;
+}
+.bike_choice_color_bike_red{
+  width: 16px;
+  height: 16px;
+  background: #FF5A5A;
+}
+.bike_sec1_content_right h4{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  margin-bottom: 10px;
+}
+.bike_choice_base_wheels{
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+.bike_choice_base_wheels_54{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 81px;
+  height: 31px;
+}
+.bike_choice_base_wheels_54_choice{
+  width: 13px;
+  height: 13px;
+  border: 3px solid #000000;
+}
+.bike_choice_base_wheels_54_choice:hover{
+  background: black;
+}
+.bike_choice_base_wheels_54 p{
+  display: flex;
+  align-items: center;
+  margin-left: 44px;
+}
+.bike_choice_base_wheels_57{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 81px;
+  height: 31px;
+}
+.bike_choice_base_wheels_57_choice{
+  width: 13px;
+  height: 13px;
+  border: 3px solid #000000;
+}
+.bike_choice_base_wheels_57_choice:hover{
+  background: black;
+}
+.bike_choice_base_wheels_57 p{
+  display: flex;
+  align-items: center;
+  margin-left: 44px;
+}
+.bike_sec1_content_right h5{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  margin-top: 40px;
+  margin-bottom: 51px;
+}
+.bike_additional_accessories{
+  display: flex;
+  align-items: center;
+  column-gap: 24px;
+}
+.bike_additional_accessories_left{
+  position: relative;
+  width: 140px;
+  height: 140px;
+  background: #F2F2F2;
+}
+.bike_additional_accessories_left img{
+  position: absolute;
+
+}
+.bike_additional_accessories_left p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+}
+.bike_additional_accessories_left_button{
+  position: absolute;
+  display: flex;
+  column-gap: 20px;
+}
+.bike_additional_accessories_left button{
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  background: #000000;
+}
+.bike_additional_accessories_right{
+  position: relative;
+  width: 140px;
+  height: 140px;
+  background: #F2F2F2;
+}
+.bike_additional_accessories_right img{
+  position: absolute;
+
+}
+.bike_additional_accessories_right p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+}
+.bike_additional_accessories_right_button{
+  position: absolute;
+  display: flex;
+  column-gap: 20px;
+}
+.bike_additional_accessories_right button{
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  background: #000000;
+}
+.bike_add_to_cart h6{
+  width: 301px;
+  height: 31px;
+  margin-top: 60px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 31px;
+}
+.bike_add_to_cart button{
+  width: 302px;
+  height: 45px;
+  border: 3px solid #000000;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+}
